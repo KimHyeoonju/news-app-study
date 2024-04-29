@@ -9,7 +9,7 @@ const NewsPage = () => {
 
   return (
     <div>
-      <h2>뉴스 목록 페이지입니다.</h2>
+      {/* <h2>뉴스 목록 페이지입니다.</h2> */}
       <Categories />
       <NewsList category={category} />
     </div>

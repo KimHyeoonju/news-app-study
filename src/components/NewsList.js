@@ -20,7 +20,7 @@ const NewsListStyle = styled.div`
 `;
 
 // 초기 데이터 객체
-const sampleArticle = {
+const sampleㅇArticle = {
   title: "제목",
   description: "내용",
   url: "https://google.com",
